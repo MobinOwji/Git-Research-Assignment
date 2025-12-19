@@ -1,0 +1,11 @@
+- Fork:
+- GitHub creates a new repository object on its servers.
+- It copies all code, branches, and history.
+- GitHub tracks the relationship between the fork and the original (upstream) repo, enabling PRs.
+
+- Clone:
+- Git copies the entire repository (objects, refs, commit history) to your local machine.
+- Remote-tracking branches (refs/remotes/origin/*) are set up.
+- You can fetch, pull, and push to keep your local copy in sync.
+
+- Key Difference: Fork is a GitHub concept (server-side copy), while clone is a Git concept (local copy).
