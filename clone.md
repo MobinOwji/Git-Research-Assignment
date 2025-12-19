@@ -1,0 +1,4 @@
+- Definition: Cloning creates a local copy of a repository (including all files, branches, and commit history) on your machine.
+- Purpose: Enables offline work, experimentation, and pushing changes back to the remote.
+- Command: git clone <repo-url>
+- Note: Unlike a fork, cloning doesn’t create a new repo on GitHub—it just copies it locally.
