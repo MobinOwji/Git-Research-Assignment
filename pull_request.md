@@ -1,0 +1,3 @@
+- Definition: A pull request is a proposal to merge changes from one branch (often in a fork) into another branch of a repository.
+- Purpose: Enables collaboration, code review, discussion, and automated checks before merging.
+- Workflow: Push changes → open PR → team reviews → merge if approved.
