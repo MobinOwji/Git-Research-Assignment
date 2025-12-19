@@ -1,0 +1,3 @@
+- Definition: git pull updates your local branch with changes from the remote repository.
+- How it works: It’s a combination of git fetch (download changes) + git merge (integrate them).
+- Use case: Keeps your local copy in sync with the team’s shared repository.
